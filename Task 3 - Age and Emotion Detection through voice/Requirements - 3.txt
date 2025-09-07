@@ -1,0 +1,7 @@
+numpy
+pandas
+tkinter
+openpyxl
+librosa
+soundfile
+tensorflow

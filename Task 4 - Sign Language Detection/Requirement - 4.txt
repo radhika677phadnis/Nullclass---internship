@@ -1,0 +1,8 @@
+opencv-python
+torch
+torchvision
+mediapipe
+numpy
+pandas
+tkinter
+openpyxl
